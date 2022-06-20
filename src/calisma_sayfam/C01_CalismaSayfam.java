@@ -16,7 +16,7 @@ public class C01_CalismaSayfam {
 
         double seker=scan.nextDouble();
         System.out.println("yilda " +seker*1.7 +" kg skekr kullaniyor");
-
+System.out.println ("yazacakmı");
         
 =======
 >>>>>>> 61eb7c1 (git commit -m)
