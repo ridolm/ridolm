@@ -12,6 +12,7 @@ public class B1_calisBabamCaliss {
 
         String sifre= scan.next();
 
+        System.out.println("git problem cözümü");
 
 
 
